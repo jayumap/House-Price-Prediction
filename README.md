@@ -49,17 +49,3 @@ This is a machine learning project that predicts house prices using a linear reg
 ## Contributing
 
 Feel free to contribute to this project by opening issues or submitting pull requests. Your feedback and suggestions are highly appreciated.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Special thanks to [Data Science University](https://www.datascienceuniversity.com/) for providing the dataset used in this project.
-
----
-
-**Note:** Make sure to replace placeholders such as `your-username` with your actual GitHub username and update the project details accordingly.
-
-This README provides a basic structure. Depending on the complexity of your project, you might want to include additional sections such as "Features," "Deployment," "Contributing Guidelines," etc.
