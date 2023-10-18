@@ -28,12 +28,10 @@ This is a machine learning project that predicts house prices using a linear reg
 
 ## Project Structure
 
-- **`server.py`**: This file contains the Flask server code that handles requests and serves predictions using the linear regression model.
+- **`server/server.py`**: This file contains the Flask server code that handles requests and serves predictions using the linear regression model.
 
-- **`static/`**: This directory contains static files such as CSS and JavaScript.
-
-- **`templates/`**: This directory holds HTML files. `index.html` is the main file for the front-end.
-
+- **`client/`**: This directory contains static files such as HTML, CSS and JavaScript. `index.html` is the main file for the front-end.
+T
 - **`model/`**: This directory can be used to store the trained machine learning model or any related files.
 
 ## Usage
